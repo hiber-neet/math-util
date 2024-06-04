@@ -5,5 +5,7 @@
 * The test script to demonstrate the TDD, DDT techniques
 * The CI (Continuous Integration) script to apply CI process
 * ...
+### Screenshots
+![Source code and Unit Test](TestJunit.png)
 #### Connect me via: viethoang5020@gmail.com
 ##### &#169; 2024 dino
