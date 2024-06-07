@@ -17,7 +17,8 @@ public class MathUtility {
     //0! = 1! = 1
     // n = 0..20! vì n = 21! vượt 18 số không, 18 số không là đủ long
     public static long getFactorial(int n){
-        long product = 10; // tich-ket qua pheo nhan
+        long product = 1; // tich-ket qua pheo nhan
+        
         if(n < 0 || n > 20){
             throw new IllegalArgumentException("Invalid n . n must be in 1...20");
         }
