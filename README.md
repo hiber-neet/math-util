@@ -1,3 +1,5 @@
+[![Math Utility Maven Project(CI applied)](https://github.com/hiber-neet/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/hiber-neet/math-util/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility Repository ver. 7.6.2024
 ## You will find in this repo the following stuff
 * A Math Utility source code to demonstrate the Math library using Java
