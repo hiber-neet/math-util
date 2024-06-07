@@ -6,6 +6,6 @@
 * The CI (Continuous Integration) script to apply CI process
 * ...
 ### Screenshots
-![Source code and Unit Test](\screenshots\TestJunit.png)
+![Source code and Unit Test](https://github.com/hiber-neet/math-util/tree/main/screenshots/)
 #### Connect me via: viethoang5020@gmail.com
 ##### &#169; 2024 dino
