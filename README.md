@@ -6,6 +6,6 @@
 * The CI (Continuous Integration) script to apply CI process
 * ...
 ### Screenshots
-![Source code and Unit Test](TestJunit.png)
+![Source code and Unit Test](\screenshots\TestJunit.png)
 #### Connect me via: viethoang5020@gmail.com
 ##### &#169; 2024 dino
