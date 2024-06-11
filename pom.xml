@@ -11,7 +11,7 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>com.dino.math.util.MathUtil1808</exec.mainClass>
     </properties>
-    <dependencies>
+    <dependencies>  
         
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
         <dependency>
