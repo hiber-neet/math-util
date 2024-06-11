@@ -9,6 +9,14 @@ package com.dino.math.util.core;
  * @author Administrator
  */
 public class MathUtility {
+    
+    //modify code in local, later upload to server
+    
+    public static void printMsg(){
+        
+    }
+    
+    
     //hàm tính n! = 1.2.3.4...n
     //hàm là static vì tính xong là trả về thôi, không nhớ nhung gì cả
     //thường là các thư viện dùng static rất nhiều cho việc tính toán số liệu rồi trả về mà không lưu
